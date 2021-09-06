@@ -13,9 +13,11 @@ The data is store in JSON file.
 
 There are only 14 data in JSON file.
 
-It consist of:-
+It consist of the following features:-
 
-1.Updating items in JSON file
-2.Storing data in JSON file
-3.Deleting data from JSON file
-4.Adding new data in JSON file
+1.Updating items in JSON file.
+2.Storing data in JSON file.
+3.Deleting data from JSON file.
+4.Adding new data in JSON file.
+
+
